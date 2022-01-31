@@ -5,15 +5,15 @@
     "main.js.map": "https://t4b4.github.io/csb-fgrwt/static/js/main.c315868e.chunk.js.map",
     "runtime-main.js": "https://t4b4.github.io/csb-fgrwt/static/js/runtime-main.9999fcbc.js",
     "runtime-main.js.map": "https://t4b4.github.io/csb-fgrwt/static/js/runtime-main.9999fcbc.js.map",
-    "static/js/2.19ff77fd.chunk.js": "https://t4b4.github.io/csb-fgrwt/static/js/2.19ff77fd.chunk.js",
-    "static/js/2.19ff77fd.chunk.js.map": "https://t4b4.github.io/csb-fgrwt/static/js/2.19ff77fd.chunk.js.map",
+    "static/js/2.a5b78126.chunk.js": "https://t4b4.github.io/csb-fgrwt/static/js/2.a5b78126.chunk.js",
+    "static/js/2.a5b78126.chunk.js.map": "https://t4b4.github.io/csb-fgrwt/static/js/2.a5b78126.chunk.js.map",
     "index.html": "https://t4b4.github.io/csb-fgrwt/index.html",
     "static/css/main.56a30e68.chunk.css.map": "https://t4b4.github.io/csb-fgrwt/static/css/main.56a30e68.chunk.css.map",
-    "static/js/2.19ff77fd.chunk.js.LICENSE.txt": "https://t4b4.github.io/csb-fgrwt/static/js/2.19ff77fd.chunk.js.LICENSE.txt"
+    "static/js/2.a5b78126.chunk.js.LICENSE.txt": "https://t4b4.github.io/csb-fgrwt/static/js/2.a5b78126.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9999fcbc.js",
-    "static/js/2.19ff77fd.chunk.js",
+    "static/js/2.a5b78126.chunk.js",
     "static/css/main.56a30e68.chunk.css",
     "static/js/main.c315868e.chunk.js"
   ]
